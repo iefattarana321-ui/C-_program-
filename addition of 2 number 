@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int x, y, sum;
+
+    x = 10;
+    y = 15;
+
+    sum = x + y;
+
+    printf("Addition = %d", sum);
+
+    return 0;
+}
